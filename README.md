@@ -1,3 +1,1 @@
-# first
-
-undo this edit
+# Revert repository back to one file
